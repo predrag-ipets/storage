@@ -1,0 +1,191 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limanski Park",
+        "type": "playground",
+        "openFrom": "07:00",
+        "openTo": "22:00",
+        "address": "Test adresa"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              19.842064,
+              45.238917
+            ],
+            [
+              19.842768,
+              45.239074
+            ],
+            [
+              19.843221,
+              45.238271
+            ],
+            [
+              19.842375,
+              45.238132
+            ],
+            [
+              19.842064,
+              45.238917
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "1178ba23f95bf0cbf1cfbf7dbb9b84b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              19.840001,
+              45.238291
+            ],
+            [
+              19.839865,
+              45.238169
+            ],
+            [
+              19.840213,
+              45.237467
+            ],
+            [
+              19.842079,
+              45.237945
+            ],
+            [
+              19.841618,
+              45.238717
+            ],
+            [
+              19.840001,
+              45.238291
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "214fcfccc3f284f9db757b449b7e5226"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          19.843453,
+          45.238844
+        ],
+        "type": "Point"
+      },
+      "id": "24a93e8f6652562abf468b623a5b0af6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limanski Park za male kuce",
+        "address": "Adresa, Novi Sad",
+        "type": "playground",
+        "openFrom": "09:00",
+        "openTo": "22:00"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              19.842929,
+              45.23901
+            ],
+            [
+              19.843603,
+              45.23916
+            ],
+            [
+              19.843804,
+              45.238762
+            ],
+            [
+              19.843112,
+              45.238618
+            ],
+            [
+              19.842929,
+              45.23901
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "2d191a085a97aac7ac5f8a971e76fd87"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          19.843499,
+          45.238584
+        ],
+        "type": "Point"
+      },
+      "id": "4237b84b7f9c96b5f9a4a3c903a9d55f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limanski Park za velike kuce",
+        "type": "playground",
+        "address": "Adresa 2, Novi Sad",
+        "openFrom": "09:00",
+        "openTo": "21:00"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              19.843134,
+              45.238596
+            ],
+            [
+              19.84383,
+              45.238744
+            ],
+            [
+              19.843895,
+              45.23844
+            ],
+            [
+              19.843194,
+              45.238367
+            ],
+            [
+              19.843134,
+              45.238596
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d9733e04aeddfb9046f4d514d2cf9860"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          19.8426,
+          45.2386
+        ],
+        "type": "Point"
+      },
+      "id": "e323da2ef215166fde741f653ab77795"
+    }
+  ],
+  "type": "FeatureCollection"
+}
