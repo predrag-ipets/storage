@@ -1,0 +1,59 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park 1",
+        "type": "playground",
+        "openFrom": "08:00",
+        "openTo": "22:00",
+        "address": "Janka Veselinovića 10, Novi Sad 21000"
+      },
+      "geometry": {
+        "coordinates": [
+          19.842674,
+          45.238271
+        ],
+        "type": "Point"
+      },
+      "id": "32158f8a3d2d7721a4aa7ebb99fb77c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Test adresa 1, Novi Sad",
+        "name": "Park 2",
+        "openFrom": "07:00",
+        "openTo": "20:00",
+        "type": "playground"
+      },
+      "geometry": {
+        "coordinates": [
+          19.843171,
+          45.238617
+        ],
+        "type": "Point"
+      },
+      "id": "63f944a73d0cb78b673a365c1e880d53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Janka Veselinovića 10, Novi Sad 21000",
+        "name": "Park 3",
+        "openFrom": "07:00",
+        "openTo": "23:00",
+        "type": "playground"
+      },
+      "geometry": {
+        "coordinates": [
+          19.842496,
+          45.238639
+        ],
+        "type": "Point"
+      },
+      "id": "ecd41287af81f8de0c015ac478c4790d"
+    }
+  ],
+  "type": "FeatureCollection"
+}
